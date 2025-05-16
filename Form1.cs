@@ -24,5 +24,10 @@ namespace TestApp
         {
             MessageBox.Show("");
         }
+
+        private void test()
+        {
+            MessageBox.Show("你好呀");
+        }
     }
 }
