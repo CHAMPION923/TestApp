@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "akRV3sSDvx0=",
+  "success": true,
+  "projectFilePath": "/home/hirres/workspace/c_sharp/winform_study/TestApp/TestApp.csproj",
+  "expectedPackageFiles": [
+    "/home/hirres/.nuget/packages/microsoft.netcore.app.runtime.win-x64/8.0.16/microsoft.netcore.app.runtime.win-x64.8.0.16.nupkg.sha512",
+    "/home/hirres/.nuget/packages/microsoft.windowsdesktop.app.ref/8.0.16/microsoft.windowsdesktop.app.ref.8.0.16.nupkg.sha512",
+    "/home/hirres/.nuget/packages/microsoft.windowsdesktop.app.runtime.win-x64/8.0.16/microsoft.windowsdesktop.app.runtime.win-x64.8.0.16.nupkg.sha512",
+    "/home/hirres/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/8.0.16/microsoft.aspnetcore.app.runtime.win-x64.8.0.16.nupkg.sha512",
+    "/home/hirres/.nuget/packages/microsoft.netcore.app.host.win-x64/8.0.16/microsoft.netcore.app.host.win-x64.8.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
